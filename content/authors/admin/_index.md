@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yanhao Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Fellow of Robotics and Computer Vision
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: School of Computing, College of Engineering and Computer Science, Australian National University
+  url: https://cecs.anu.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include simultaneous localization and mapping (SLAM), deformation reconstruction, surgical robotics, and deep learning. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- SLAM
+- 3D reconstruction
+- Deformation Reconstruction
+- Surgical Robotics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Robotics
+    institution: Robotics Institute, University of Technology Sydney
+    year: 2021
+  - course: MEng in Applied Statistics
+    institution: Northeastern University (China)
+    year: 2017
+  - course: BSc in Mathematics and Applied Mathematics
+    institution: Northeastern University (China)
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'yanhaozhang1991@gmail.com'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=9W32tDUAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/YanhaoZhang
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -59,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/CV_YanhaoZhang_2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
