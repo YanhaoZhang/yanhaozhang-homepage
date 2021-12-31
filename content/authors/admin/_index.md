@@ -10,8 +10,8 @@ role: Research Fellow of Robotics and Computer Vision
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Computing, College of Engineering and Computer Science, Australian National University
-  url: https://cecs.anu.edu.au/
+- name: Australian National University
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include simultaneous localization and mapping (SLAM), deformation reconstruction, surgical robotics, and deep learning. 
@@ -71,8 +71,6 @@ email: "yanhaozhang1991@gmail.com"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi. Thanks for coming to my personal homepage. I am a first year Postdoctorial Research Fellow doing deep learning and geo-localization for autonomous driving  within the School of Computing, ANU College of Engineering and Computer Science. Before joining ANU, I studied my Ph.D. in the Robotics Institute, University of Technology Sydney ([UTS: RI]<https://www.uts.edu.au/research/robotics-institute>). My research interests include simultaneous localization and mapping (SLAM), deformation reconstruction, surgical robotics, and deep learning. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_YanhaoZhang_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
